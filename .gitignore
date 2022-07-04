@@ -2,4 +2,3 @@ node_modules
 dist
 .DS_Store
 mfe-github-actions_accessKeys.csv
-.yarn
